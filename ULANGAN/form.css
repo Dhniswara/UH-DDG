@@ -1,0 +1,42 @@
+/*body {
+    background: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 150px;
+}
+
+h2 {
+    display: flex;
+    align-items: center;
+}
+.cemter {
+    background: green;
+    border-radius: 30px;
+    padding: 25px 50px 50px 50px
+}
+*/
+
+
+body{
+    background-color: aquamarine;
+    justify-content: center;
+    
+}
+
+#name {
+   margin: 0 30px 0 0; 
+}
+
+h2{
+    margin-left: 620px;
+}
+
+form{
+    margin-left: 550px;
+}
+
+a{
+    margin-left: 620px;
+}
